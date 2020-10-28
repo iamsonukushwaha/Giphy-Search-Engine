@@ -26,7 +26,7 @@ document.querySelector(".js-userinput").addEventListener('keyup', function (e) {
 function getData() {
 
     /* 2. do the data stuff with the API */
-    var url = "http://api.giphy.com/v1/gifs/search?q=";
+    var url = "https://api.giphy.com/v1/gifs/search?q=";
     var input = document.querySelector("input").value;
     var key = "&api_key=dc6zaTOxFJmzC";
     var fullUrl = url + input + key
