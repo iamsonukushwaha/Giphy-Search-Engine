@@ -2,7 +2,7 @@
 
 > shows GIFS in DOM using GIPHY API
 
-See live demo **[Giphy-Search-Engine](https://flyingsonu122.github.io/Giphy-Search-Engine)**
+See live demo on **[Giphy-Search-Engine](https://flyingsonu122.github.io/Giphy-Search-Engine)**
 
 
 learning these concept on [https://onemonth.com/](https://onemonth.com/)
@@ -15,11 +15,6 @@ learning these concept on [https://onemonth.com/](https://onemonth.com/)
 Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
-
-
-
- 
-
 
 <br><br>
 <p align="center"> Let's have a chat on </p> 
